@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-prod-build/static/css/main.08ea5861.chunk.css",
+    "main.js": "/react-prod-build/static/js/main.bb95158f.chunk.js",
+    "main.js.map": "/react-prod-build/static/js/main.bb95158f.chunk.js.map",
+    "runtime-main.js": "/react-prod-build/static/js/runtime-main.fa4adeb4.js",
+    "runtime-main.js.map": "/react-prod-build/static/js/runtime-main.fa4adeb4.js.map",
+    "static/js/2.30e7a3d5.chunk.js": "/react-prod-build/static/js/2.30e7a3d5.chunk.js",
+    "static/js/2.30e7a3d5.chunk.js.map": "/react-prod-build/static/js/2.30e7a3d5.chunk.js.map",
+    "static/js/3.759704f6.chunk.js": "/react-prod-build/static/js/3.759704f6.chunk.js",
+    "static/js/3.759704f6.chunk.js.map": "/react-prod-build/static/js/3.759704f6.chunk.js.map",
+    "index.html": "/react-prod-build/index.html",
+    "static/css/main.08ea5861.chunk.css.map": "/react-prod-build/static/css/main.08ea5861.chunk.css.map",
+    "static/js/2.30e7a3d5.chunk.js.LICENSE.txt": "/react-prod-build/static/js/2.30e7a3d5.chunk.js.LICENSE.txt",
+    "static/media/calculator.png": "/react-prod-build/static/media/calculator.fc81f8e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa4adeb4.js",
+    "static/js/2.30e7a3d5.chunk.js",
+    "static/css/main.08ea5861.chunk.css",
+    "static/js/main.bb95158f.chunk.js"
+  ]
+}
